@@ -30,7 +30,7 @@ def env_bool(name, default=False):
 # -----------------------------------
 # Security
 # -----------------------------------
-SECRET_KEY = os.environ.get("SECRET_KEY")
+SECRET_KEY = os.environ.get("SECRET_KEY", "django-insecure-eleganza-home-123456789-change-me-please")
 
 DEBUG = os.environ.get("DEBUG", "True").lower() == "true"
 
