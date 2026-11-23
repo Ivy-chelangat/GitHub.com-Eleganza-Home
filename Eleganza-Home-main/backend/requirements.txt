@@ -34,3 +34,5 @@ urllib3==2.7.0
 whitenoise==6.12.0
 python-dotenv==1.0.1
 social-auth-app-django
+dj-rest-auth
+
