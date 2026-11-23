@@ -36,4 +36,5 @@ python-dotenv==1.0.1
 social-auth-app-django
 dj-rest-auth
 djoser
+drf-nested-routers
 
