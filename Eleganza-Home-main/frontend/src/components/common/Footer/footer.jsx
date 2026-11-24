@@ -58,16 +58,16 @@ const Footer = () => {
             {/* Contact Details */}
             <div className="col-12 col-sm-6 col-md-4 mb-4">
               <h6 className="text-uppercase fw-bold">Contact</h6>
-              <p><i className="bi bi-house-door-fill me-2"></i> Cairo, Egypt</p>
-              <p><i className="bi bi-envelope-fill me-2"></i> anssalem810@gmail.com</p>
-              <p><i className="bi bi-phone-fill me-2"></i> +20 10 600 695 34</p>
+              <p><i className="bi bi-house-door-fill me-2"></i> Nairobi, Kenya</p>
+              <p><i className="bi bi-envelope-fill me-2"></i> ivychela254@gmail.com</p>
+              <p><i className="bi bi-phone-fill me-2"></i> +254 719827483</p>
             </div>
           </div>
         </div>
 
         {/* Footer Bottom Section */}
         <div className="text-center p-3 copyright">
-          © {new Date().getFullYear()} Anas Salem. All rights reserved.
+          © {new Date().getFullYear()} Ivy Chela.All rights reserved.
         </div>
       </footer>
     </>
